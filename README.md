@@ -1,4 +1,4 @@
-Ask a question
+## Ask a question
 
 Asking a question is as easy as creating a new issue on this project.
 
